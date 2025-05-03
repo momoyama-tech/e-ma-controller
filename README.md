@@ -78,4 +78,4 @@ child_temp: A template for child programs. Used to configure multiple identical 
 
 Detailed architecture, technical components, and overall project structure are documented here:
 
-📘 E-ma Project Overview (Notion)
+[📘 E-ma Project Overview (Notion)](https://pinnate-smash-23b.notion.site/E-ma-19efe465481f804e9a28cbca9379be98?pvs=4)
